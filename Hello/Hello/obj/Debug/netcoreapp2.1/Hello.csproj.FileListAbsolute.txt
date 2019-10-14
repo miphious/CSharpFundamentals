@@ -1,0 +1,11 @@
+C:\Users\sutha\Documents\C#FundamentalsPS\CSharpFundamentalsPS\Hello\Hello\bin\Debug\netcoreapp2.1\Hello.deps.json
+C:\Users\sutha\Documents\C#FundamentalsPS\CSharpFundamentalsPS\Hello\Hello\bin\Debug\netcoreapp2.1\Hello.runtimeconfig.json
+C:\Users\sutha\Documents\C#FundamentalsPS\CSharpFundamentalsPS\Hello\Hello\bin\Debug\netcoreapp2.1\Hello.runtimeconfig.dev.json
+C:\Users\sutha\Documents\C#FundamentalsPS\CSharpFundamentalsPS\Hello\Hello\bin\Debug\netcoreapp2.1\Hello.dll
+C:\Users\sutha\Documents\C#FundamentalsPS\CSharpFundamentalsPS\Hello\Hello\bin\Debug\netcoreapp2.1\Hello.pdb
+C:\Users\sutha\Documents\C#FundamentalsPS\CSharpFundamentalsPS\Hello\Hello\obj\Debug\netcoreapp2.1\Hello.csprojAssemblyReference.cache
+C:\Users\sutha\Documents\C#FundamentalsPS\CSharpFundamentalsPS\Hello\Hello\obj\Debug\netcoreapp2.1\Hello.csproj.CoreCompileInputs.cache
+C:\Users\sutha\Documents\C#FundamentalsPS\CSharpFundamentalsPS\Hello\Hello\obj\Debug\netcoreapp2.1\Hello.AssemblyInfoInputs.cache
+C:\Users\sutha\Documents\C#FundamentalsPS\CSharpFundamentalsPS\Hello\Hello\obj\Debug\netcoreapp2.1\Hello.AssemblyInfo.cs
+C:\Users\sutha\Documents\C#FundamentalsPS\CSharpFundamentalsPS\Hello\Hello\obj\Debug\netcoreapp2.1\Hello.dll
+C:\Users\sutha\Documents\C#FundamentalsPS\CSharpFundamentalsPS\Hello\Hello\obj\Debug\netcoreapp2.1\Hello.pdb
