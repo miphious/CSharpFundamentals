@@ -5,4 +5,5 @@ A refresher on C# from Plural Sight
 ### Gradebook  
   Takes grades and averages them, also shows the lowest and highest grades.  
   Future improvements may include adding students and assigning grades  
-  Taking user inputs as well  
+  ~~Taking user inputs as well~~  Completed  
+  
